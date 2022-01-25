@@ -34,4 +34,4 @@ Note: for a more interactive way, and to get to share chatbot link over the netw
 ## Bot example
 Here is an example for a conversation driven through different turns.
 
-<img src="https://github.com/hazemhosny/Chatbot_Countries/blob/main/BotExample.png" alt="BotExample" width="850"/>
+<img src="https://github.com/ahmedkotb98/Master-Linux-Task/blob/main/BotExample.png" alt="BotExample" width="850"/>
