@@ -1,6 +1,6 @@
-# Chatbot for population and capital of country using Rasa
+# Chatbot for population and capital of country using Using [Rasa 3.0](https://rasa.com/docs/rasa/)
+
 ## Introduction
-Using [Rasa 3.0](https://rasa.com/docs/rasa/) to create a customized, and user friendly AI bot that can help with countries.
 you can ask things like:
 - Show me countries around the world.
 - What do you know about Australia?
