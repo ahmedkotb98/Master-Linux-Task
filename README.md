@@ -3,9 +3,9 @@
 Using [Rasa 3.0](https://rasa.com/docs/rasa/) to create a customized, and user friendly AI bot that can help with countries.
 you can ask things like:
 - Show me countries around the world.
-- What do you know about Egypt?
+- What do you know about Australia?
 - what is the population of Australia?
-- Tell me the capital of Japan?
+- Tell me the capital of Australia?
 
 It can Handle different stories, variations, and case sensitive words.
 example:
