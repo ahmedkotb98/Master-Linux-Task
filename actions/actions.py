@@ -6,7 +6,6 @@ from rasa_sdk.executor import CollectingDispatcher
 from rasa_sdk.types import DomainDict
 from rasa_sdk.events import SlotSet
 
-
 response = requests.get('https://qcooc59re3.execute-api.us-east-1.amazonaws.com/dev/getCountries')
 
 if response.status_code != 200:
